@@ -11,7 +11,7 @@
 
 <body>
     <header class="container text-center py-4">
-        <img src="file:///C:/Users/Mario/Downloads/transferir.png" alt="avatar Victor" class="rounded-circle" width="150" height="150">
+        <img src="file:///C:/Users/Mario/Downloads/Nova%20pasta/index.html" alt="avatar Victor" class="rounded-circle" width="150" height="150">
         <h1>Victor Vicent</h1>
         <h2 class="h4">Cientista de Dados</h2>
         <p class="lead">Sou Cientista de Dados com formação em Engenharia da Computação. Transformo dados em soluções estratégicas e ensino conceitos de ciência de dados com foco em Python, estatística e visualização.</p>
