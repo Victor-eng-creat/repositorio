@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <title>Portfólio</title>
+</head>
+
+<body>
+    <header class="container text-center py-4">
+        <img src="file:///C:/Users/Mario/Downloads/transferir.png" alt="avatar Victor" class="rounded-circle" width="150" height="150">
+        <h1>Victor Vicent</h1>
+        <h2 class="h4">Cientista de Dados</h2>
+        <p class="lead">Sou Cientista de Dados com formação em Engenharia da Computação. Transformo dados em soluções estratégicas e ensino conceitos de ciência de dados com foco em Python, estatística e visualização.</p>
+        <h3 class="h5 mt-4">Minhas habilidades</h3>
+        <div>
+            <span class="badge bg-secondary">Linguagens de Programação</span>
+            <span class="badge bg-secondary">Tratamento e Limpeza de Dados</span>
+            <span class="badge bg-secondary">Banco de Dados</span>
+            <span class="badge bg-secondary">Raciocínio lógico e analítico</span>
+        </div>
+    </header>
+
+    <main class="container mt-5">
+        <h2>Alguns dos meus projetos</h2>
+        <div class="row">
+            <!-- Projeto 1 -->
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://cdn.pixabay.com/photo/2023/12/29/16/16/ai-generated-8476520_1280.png" class="card-img-top" alt="Otimização de Estoque">
+                    <div class="card-body">
+                        <h5 class="card-title">Otimização de Estoque com Análise de Dados</h5>
+                        <p class="card-text">Colaborei com uma rede de farmácias para resolver o problema de desequilíbrio de estoque entre unidades. Utilizei Python, Pandas e Seaborn para gerar insights que reduziram 25% do desperdício e aumentaram a disponibilidade de produtos.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Projeto 2 -->
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://cdn.pixabay.com/photo/2016/07/16/22/54/twitter-1522890_1280.jpg" class="card-img-top" alt="Churn Prediction">
+                    <div class="card-body">
+                        <h5 class="card-title">Predição de Cancelamento de Clientes</h5>
+                        <p class="card-text">Desenvolvi um modelo preditivo com Scikit-learn para prever o cancelamento de clientes em uma operadora. O modelo atingiu 83% de precisão e ajudou a equipe de marketing a atuar preventivamente.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- Projeto 3 -->
+            <div class="col-md-4">
+                <div class="card mb-4">
+                    <img src="https://cdn.pixabay.com/photo/2019/06/17/19/48/source-4280758_1280.jpg" class="card-img-top" alt="Dashboard Educacional">
+                    <div class="card-body">
+                        <h5 class="card-title">Dashboard Educacional com Power BI</h5>
+                        <p class="card-text">Criei um painel interativo para uma escola técnica monitorar desempenho dos alunos. A análise foi feita em Python e o dashboard ajudou a elevar a taxa de aprovação em 15%.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="container text-center py-4">
+        <h2>Entre em contato</h2>
+        <p><i class="bi bi-github"></i> <a href="https://github.com/Victor-eng-creat/repositorio" target="_blank">GitHub</a></p>
+        <p class="text-muted">Produzido por Victor Vicent</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
